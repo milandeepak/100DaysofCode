@@ -5,4 +5,6 @@
 - How to use the input function
 - How to use the len function
 
-Finally I created a simple program that generates a band name based on the city and pet name of the user.
+Finally I wrote a simple program that generates a band name based on the city and pet name of the user.
+
+[Band Name Generator](https://imgur.com/hXJpRRG)
