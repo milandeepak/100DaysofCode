@@ -7,4 +7,4 @@
 
 Finally I wrote a simple program that generates a band name based on the city and pet name of the user.
 
-[Band Name Generator](Day1/day1.gif)
+![Band Name Generator](https://github.com/milandeepak/100DaysofCode/blob/0e502d4f34fd5de36eaddd0096cdf2255978131b/Day1/day1.gif)
