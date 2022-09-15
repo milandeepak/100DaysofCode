@@ -1,7 +1,7 @@
 ## On Day 2 I learned about 
 - About Data Types
 - How to perform mathematical operations on numbers
-- How to perform type conversion
+- How to perfor#m type conversion
 - How to use the round function
 - About f-strings
 
